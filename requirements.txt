@@ -1,3 +1,14 @@
 PyOpenGL
 PyYAML
 svg.path
+# requirements.txt
+
+# Specific package versions
+package1==1.2.3
+package2>=2.0.0,<3.0.0
+package3
+
+# Use '*' to get the latest version
+package4>=4.0.0,<=5.0.0
+
+# You can add more dependencies as needed
